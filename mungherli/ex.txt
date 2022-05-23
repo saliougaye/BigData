@@ -1,0 +1,25 @@
+PROBLEMA 1)
+Il direttore di produzione della Elettrorex deve elaborare il piano produttivo per la linea che realizza un certo
+modello di frigorifero su un orizzonte temporale di cinque mesi. La linea è in grado di produrre al più 2000 unità 
+al mese. Inoltre possono venire prodotte 600 unità aggiuntive da terze parti in subfornitura. Il costo unitario di 
+produzione è pari a 100€ per la linea interna e 150€ per la lavorazione esterna. Il costo di mantenimento in scorta 
+è pari a 2€ per ogni unità e per ogni mese di permanenza in magazzino. La giacenza all'inizio della pianificazione 
+è pari a 300 unità e il direttore richiede la stessa giacenza alla fine della pianificazione. Le vendite previste 
+nei cinque periodi sono, rispettivamente, pari a 1200, 2100, 2400, 3000, 4000 unità. Formulare e risolvere, mediante 
+un programma Python o C#, il corrispondente modello di ottimizzazione."
+
+PROBLEMA 2)
+La panetteria Spiga d'Oro prepara e vende panettoni, pizza bianca e ciambellone per i clienti del suo forno. 
+Un chilogrammo di panettone richiede, tra gli altri ingredienti, 700 g di pasta lievitata, 2 uova, e 200 g di zucchero;
+per produrre 1 Kg di pizza bianca occorre 1 Kg di pasta lievitata. Ogni chilogrammo di ciambellone richiede, tra gli 
+altri ingredienti, 500 g di farina, 4 uova e 300g di zucchero. Per preparare 1kg di pasta lievitata occorre mescolare 
+600g di farina, 50 g di zucchero e 20 g di lievito di birra, oltre a 350 g di acqua e 50 g di sale. 
+Lo scorso 6 dicembre in magazzino le scorte di prodotto ammontavano a 10 Kg di farina, 100 g di lievito di birra, 
+24 uova e 3 Kg di zucchero. Quale sarebbe dovuto essere il piano di produzione ottimale per massimizzare 
+l'incasso del giorno successivo, considerando che panettoni, pizza bianca e ciambellone vengono venduti 
+rispettivamente a 7€, 6€, 10€ al Kg? Formulare e risolvere, mediante un programma Python o C#, 
+il corrispondente modello di ottimizzazione
+
+PROBLEMA 3)
+"La SorFin è una società finanziaria leccese che vuole definire, per un proprio cliente abituale, un piano di 
+investimento biennale sulla base della liquidità iniziale valutabile in 150.000€. A 6, 12, 18 mesi ci si aspetta un ritorno sugli investimenti pari ad almeno 5.000€, 6.500€, 7.000€ rispettivamente. Per l'investimento, la SorFin può scegliere due progetti A, B secondo il piano di investimenti riportati in tabella (si assume la possibilità di investire anche quote frazionate dei due progetti) Le disponibilità liquide non investite nei progetti sono mantenute in un conto corrente che garantisce un interesse del 5%. Supponendo che la società non possa prendere denaro in prestito, definire il piano di investimento che consente di massimizzare la liquidità al termine dei due anni. "
